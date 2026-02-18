@@ -40,7 +40,7 @@ z = Tr(x) = x + ar·sin(br·x)
 Where:
 - `ar = 0.05 × (r mod 7)`
 - `br = 0.3 × (r mod 5 + 1)`
-- `r` = University Roll Number (102317200 in this implementation)
+- `r` = University Roll Number (102303580 in this implementation)
 
 **Calculated Parameters**:
 - ar = 0.30
